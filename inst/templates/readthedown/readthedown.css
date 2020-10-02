@@ -7,21 +7,21 @@
 }
 
 #main .nav-pills > li > a {
-    background-color: #EEEEEE;
+    background-color: #008000;
     background-image: none;
     background-position: 0 0;
 }
 
 #main .nav-pills > li > a:hover {
-  color: #FFFFFF !important;
-  background-color: #9F2042;
+  color: #ffff00 !important;
+  background-color: #ffff00;
 }
 
 #main .nav-pills > li.active > a,
 #main .nav-pills > li.active > a:hover,
 #main .nav-pills > li.active > a:focus {
-  color: #FFFFFF !important;
-  background-color: #9F2042;
+  color:#ffff00 !important;
+  background-color: #ffff00;
 }
 
 /* Chi-squared results */
